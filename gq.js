@@ -43,7 +43,7 @@ var lunBo1=document.getElementById("lunBo1");
 var lunBo2=document.getElementById("lunBo2");
 
 
-var arry=["img/56.jpg","img/57.jpg","img/58.jpg"];
+var arry=["https://raw.githubusercontent.com/liao-lei/mypicture/master/56.jpg","https://raw.githubusercontent.com/liao-lei/mypicture/master/57.jpg","https://raw.githubusercontent.com/liao-lei/mypicture/master/58.jpg"];
 var szxb=0;
 var lUboz=setInterval(lunbo,2000);
 function lunbo(){
