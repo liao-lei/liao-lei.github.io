@@ -231,31 +231,14 @@ body{  font-family: "Helvetica Neue",  Helvetica,"����",Arial, sans-seri
 .index-content8 ol li:hover{background-color: silver;}
 .index-content8 ol li:nth-child(1){background-color: silver;}
                                                 /*���ݵھŲ��ֲ��������ӳ����ֲ�ͼ*/
-.index-content9{width: 100%;height: 225px;background-color: #818d8d;text-align: center;}
-.index-content9 .lunBo{width: 1000px;height: 120px;margin-top: 5px;}
-.index-content9 .lunBo1{width: 1000px;height: 120px;margin-top: 5px;display: none;margin-left: 130px;}
-.index-content9 .lunBo2{width: 1000px;height: 120px;margin-top: 5px;display: none;margin-left: 130px;}
-.index-content9 .button0{width: 1000px;height: 10px;margin: auto;}
+
+.index-content9{width: 100%;height: 225px;background-color: #818d8d;text-align: center;position: relative;}
+.index-content9 .lunBo{width: 1000px;height: 120px;margin-top: 5px;position: absolute;left:50%;transform: translateX(-50%);}
+.index-content9 .lunBo1{width: 1000px;height: 120px;margin-top: 5px;display: none;position: absolute;top:125px;left:50%;transform: translateX(-50%);}
+.index-content9 .lunBo2{width: 1000px;height: 120px;margin-top: 5px;display: none;position: absolute;top:250px;left:50%;transform: translateX(-50%);}
+.index-content9 .button0{width: 1000px;height: 10px;position:absolute;top:125px;left: 50%;transform: translateX(-50%);}
 .index-content9 .button0 .button1{width: 325px;height: 10px;background-color: #d2d2d2;border: none;outline: none;}
 .index-content9 .button0 .button2{width: 325px;height: 10px;background-color: #d2d2d2;border: none;outline: none;margin-left:3px;}
 .index-content9 .button0 .button3{width: 325px;height: 10px;background-color: #d2d2d2;border: none;outline: none;margin-left:3px;}
-.index-content9 .lookall{width: 90px;height: 20px;border: 1px solid silver;background-color: white;outline: none;color: silver;margin-top: 10px;}
-.index-content9 .shouqi{width: 90px;height: 20px;border: 1px solid silver;background-color: white;outline: none;color: silver;margin-top: 10px;display: none;margin-left: 45%;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.index-content9 .lookall{width: 90px;height: 20px;border: 1px solid silver;background-color: white;outline: none;color: silver;position:absolute;top:140px;left: 50%;transform: translateX(-50%);}
+.index-content9 .shouqi{width: 90px;height: 20px;border: 1px solid silver;background-color: white;outline: none;color: silver;display: none;position:absolute;top:400px;left: 50%;transform: translateX(-50%);}
