@@ -157,8 +157,7 @@ body{  font-family: "Helvetica Neue",  Helvetica,"����",Arial, sans-seri
 .index-content .content5 .featurenav{width: 1007px;height: 20px;margin:auto;margin-top: 20px;clear: both;}
 .index-content .content5 .featurenav ul{}
 .index-content .content5 .featurenav ul li{float: left;list-style: none;width: 12%;text-align: center;line-height: 20px;border-right: 1px dashed white;}
-.index-content .content5 .featurenav ul li a{color: azure;}
-.index-content .content5 .featurenav ul li:nth-child(5) a{color: red;}
+.index-content .content5 .featurenav ul li a{color: azure;}.index-content .content5 .featurenav ul li:nth-child(5) a{color: red;}
 .index-content .content5 .featurenav ul li:hover a{color: red;}
                                                                                                          /*�м䲿�ֵ��岿��ר�⵼��������ͼ*/
 .index-content .content5 .featurenavtu{width: 1007px;margin: auto;}
@@ -187,7 +186,7 @@ body{  font-family: "Helvetica Neue",  Helvetica,"����",Arial, sans-seri
 .index-content7 .people{width: 360px;margin: 0 auto;margin-top: 40px;}
 .index-content7 .people .people1{width: 150px;margin: 0;background-color: black;color: azure;float: left;text-align: right;height: 40px;line-height: 40px;margin-right: 20px;}
 .index-content7 .people .people2{width: 150px;margin: 0;color: black;float: left;height: 40px;line-height: 40px;}
-.index-content7 ul{width: 1203px;height: 296px;margin: auto;clear: both;position: absolute;top: 70px;left: 2.5%;}
+.index-content7 ul{width: 1203px;height: 296px;margin: auto;clear: both;position: absolute;top: 70px;left: 50%;transform:translate(-50%);}
 .index-content7 ul li{overflow: hidden;list-style: none;float: left;width: 298px;height: 296px;margin-left: 2px;position: relative;}
 .index-content7 ul li .renwu{width: 100%;height: 153px;background-color: white;position: absolute;left: 0;top: 223px;box-shadow: 2px 2px 30px #a3a3a3 inset;}
 .index-content7 ul li .renwu h3{width: 80%;margin: 25px auto;font-size: 17px;}
@@ -210,7 +209,7 @@ body{  font-family: "Helvetica Neue",  Helvetica,"����",Arial, sans-seri
 .index-content8 .talk{width: 360px;margin:auto;}
 .index-content8 .talk .talk1{width: 150px;margin: 0;background-color: black;color: azure;float: left;text-align: right;height: 40px;line-height: 40px;margin-right: 20px}
 .index-content8 .talk .talk2{width: 150px;margin: 0;color: black;float: left;height: 40px;line-height: 40px;}
-.index-content8 ul{width: 1203px;height: 296px;margin: auto;clear: both;position: absolute;top: 70px;left: 2.5%;}
+.index-content8 ul{width: 1203px;height: 296px;margin: auto;clear: both;position: absolute;top: 70px;left: 50%;transform:translate(-50%);}
 .index-content8 ul li{width: 298px;height: 296px;margin-left: 2px;list-style: none;float: left;position: relative;overflow: hidden;}
 .index-content8 ul li .tAlkmb{width: 100%;height: 180px;background-color: white;box-shadow: 2px 2px 30px #a3a3a3 inset;position: absolute;left: 0;top: 223px;}
 .index-content8 ul li .tAlkmb .tAlkmbtu{position: absolute;left: 7px;top: -10px;}
