@@ -111,20 +111,4 @@ function djyc(){
     button0.style.display="block";
     lookall.style.display="block";
     shouqi.style.display="none";
-    lookall.style.marginLeft="45%";
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
